@@ -1,6 +1,6 @@
 import './App.css'
 import Usercard from './components/UserCard/Usercard'
-import Info from './components/InfoCard/info'
+import Info from './components/InfoCard/Info'
 
 function App() {
   return (

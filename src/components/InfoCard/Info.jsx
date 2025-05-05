@@ -1,4 +1,4 @@
-import './InfoCard.css'
+import './Infocard.css'
 import tog from '../../assets/tog.png'
 
 function info(props) {

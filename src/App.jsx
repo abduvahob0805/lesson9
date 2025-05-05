@@ -1,5 +1,5 @@
 import './App.css'
-import Usercard from './components/UserCard/usercard'
+import Usercard from './components/UserCard/Usercard'
 import Info from './components/InfoCard/info'
 
 function App() {
